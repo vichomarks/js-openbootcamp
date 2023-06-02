@@ -1,0 +1,11 @@
+{
+  "name": "sintaxis-variables-reservadas",
+  "version": "1.0.0",
+  "description": "Ejercicio 02 del Open Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Marquez",
+  "license": "ISC"
+}
